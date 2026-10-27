@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+
+data/
+datasets/
+*.tar.gz
+
+*.pth
+*.pt
+*.ckpt
+
+baseline_plots/
+baseline_v3_diagnostic_results/
+baseline_v3_results/
+baseline_v4_tuned_results/

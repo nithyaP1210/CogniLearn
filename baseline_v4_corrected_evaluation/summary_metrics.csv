@@ -1,0 +1,6 @@
+stage,seen_classes,class_incremental_accuracy_percent,samples,checkpoint
+1,"airplane,automobile",87.0,400,baseline_v4_tuned_results\checkpoints\after_task_1.pth
+2,"airplane,automobile,bird,cat",35.12,800,baseline_v4_tuned_results\checkpoints\after_task_2.pth
+3,"airplane,automobile,bird,cat,deer,dog",27.5,1200,baseline_v4_tuned_results\checkpoints\after_task_3.pth
+4,"airplane,automobile,bird,cat,deer,dog,frog,horse",22.31,1600,baseline_v4_tuned_results\checkpoints\after_task_4.pth
+5,"airplane,automobile,bird,cat,deer,dog,frog,horse,ship,truck",16.65,2000,baseline_v4_tuned_results\checkpoints\after_task_5.pth

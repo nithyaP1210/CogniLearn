@@ -1,0 +1,6 @@
+after_task,task_classes,average_batch_loss,task_1_accuracy,task_2_accuracy,task_3_accuracy,task_4_accuracy,task_5_accuracy
+1,"airplane, automobile",0.6043,81.5,0,0,0,0
+2,"bird, cat",1.9123,26.5,52.0,0,0,0
+3,"deer, dog",2.6071,61.0,59.25,67.0,0,0
+4,"frog, horse",2.7836,39.25,41.25,51.0,53.25,0
+5,"ship, truck",3.1432,29.5,52.75,52.25,44.75,50.25
